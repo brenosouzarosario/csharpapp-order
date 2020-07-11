@@ -1,0 +1,13 @@
+C:\Users\Breno\source\repos\Order\Order\bin\Debug\netcoreapp3.1\Order.exe
+C:\Users\Breno\source\repos\Order\Order\bin\Debug\netcoreapp3.1\Order.deps.json
+C:\Users\Breno\source\repos\Order\Order\bin\Debug\netcoreapp3.1\Order.runtimeconfig.json
+C:\Users\Breno\source\repos\Order\Order\bin\Debug\netcoreapp3.1\Order.runtimeconfig.dev.json
+C:\Users\Breno\source\repos\Order\Order\bin\Debug\netcoreapp3.1\Order.dll
+C:\Users\Breno\source\repos\Order\Order\bin\Debug\netcoreapp3.1\Order.pdb
+C:\Users\Breno\source\repos\Order\Order\obj\Debug\netcoreapp3.1\Order.csprojAssemblyReference.cache
+C:\Users\Breno\source\repos\Order\Order\obj\Debug\netcoreapp3.1\Order.csproj.CoreCompileInputs.cache
+C:\Users\Breno\source\repos\Order\Order\obj\Debug\netcoreapp3.1\Order.AssemblyInfoInputs.cache
+C:\Users\Breno\source\repos\Order\Order\obj\Debug\netcoreapp3.1\Order.AssemblyInfo.cs
+C:\Users\Breno\source\repos\Order\Order\obj\Debug\netcoreapp3.1\Order.dll
+C:\Users\Breno\source\repos\Order\Order\obj\Debug\netcoreapp3.1\Order.pdb
+C:\Users\Breno\source\repos\Order\Order\obj\Debug\netcoreapp3.1\Order.genruntimeconfig.cache
